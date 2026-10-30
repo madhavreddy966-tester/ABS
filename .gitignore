@@ -1,0 +1,8 @@
+# Ignore all config properties files
+*config.properties
+
+# Ignore all ERP login Excel files
+*ERP_LoginDATA.xlsx
+
+# Ignore Maven target directories
+target/
